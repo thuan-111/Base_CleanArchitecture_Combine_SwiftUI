@@ -1,2 +1,2 @@
-# Base_CleanArchitecture_Combine_SwiftUI
+# [SwiftUI] Base CleanArchitecture Combine
 Base of IOS Application usinng: Clean Architeture, Combine Framework, SwiftUI
